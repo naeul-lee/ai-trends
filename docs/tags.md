@@ -12,6 +12,10 @@ permalink: /tags/
 
 - 2026-11-05 [2026-11-05 AI 트렌드]({{ site.baseurl }}/2026/11/05/ai-trends.html)
 
+## ⚙️ LLM 서빙/인프라
+
+- 2026-11-05 [2026-11-05 AI 트렌드]({{ site.baseurl }}/2026/11/05/ai-trends.html)
+
 ## 💰 수익화
 
 - 2026-11-05 [2026-11-05 AI 트렌드]({{ site.baseurl }}/2026/11/05/ai-trends.html)
