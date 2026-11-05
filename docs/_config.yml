@@ -1,0 +1,15 @@
+title: AI Trends Daily
+description: 매일 아침 9시, AI 최신 동향과 활용 Best Practice 요약
+lang: ko
+theme: minima
+timezone: Asia/Seoul
+permalink: /:year/:month/:day/:title.html
+show_excerpts: true
+future: true
+plugins:
+  - jekyll-feed
+header_pages:
+  - archive.md
+  - tags.md
+baseurl: /ai-trends
+url: https://naeul-lee.github.io
