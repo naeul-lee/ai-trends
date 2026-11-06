@@ -6,14 +6,17 @@ permalink: /tags/
 
 ## 🎯 활용 Best Practice
 
+- 2026-11-06 [2026-11-06 AI 트렌드]({{ site.baseurl }}/2026/11/06/ai-trends.html)
 - 2026-11-05 [2026-11-05 AI 트렌드]({{ site.baseurl }}/2026/11/05/ai-trends.html)
 
 ## 🤖 새로운 모델
 
+- 2026-11-06 [2026-11-06 AI 트렌드]({{ site.baseurl }}/2026/11/06/ai-trends.html)
 - 2026-11-05 [2026-11-05 AI 트렌드]({{ site.baseurl }}/2026/11/05/ai-trends.html)
 
 ## ⚙️ LLM 서빙/인프라
 
+- 2026-11-06 [2026-11-06 AI 트렌드]({{ site.baseurl }}/2026/11/06/ai-trends.html)
 - 2026-11-05 [2026-11-05 AI 트렌드]({{ site.baseurl }}/2026/11/05/ai-trends.html)
 
 ## 💰 수익화
@@ -22,4 +25,5 @@ permalink: /tags/
 
 ## 🏢 업계 동향
 
+- 2026-11-06 [2026-11-06 AI 트렌드]({{ site.baseurl }}/2026/11/06/ai-trends.html)
 - 2026-11-05 [2026-11-05 AI 트렌드]({{ site.baseurl }}/2026/11/05/ai-trends.html)
