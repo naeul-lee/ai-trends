@@ -80,7 +80,11 @@ summary: "오늘의 핵심을 1~2문장으로"
 2. `main` 브랜치에 push 한다. (GitHub Pages가 `main`의 `/docs`에서 배포됨)
 3. push 가 거부되면 `git pull --rebase origin main` 후 재시도한다.
 4. 마지막에 발행된 글 파일명과 핵심 요약 3줄을 출력한다.
-5. 모바일 푸시 알림(`PushNotification`)을 보낼 수 있다면 핵심 요약 3줄을 담아 1회 보낸다.
+5. 모바일 푸시 알림(`PushNotification`)을 보낼 수 있다면 핵심 요약 3줄과 **발행된 페이지 링크**를 담아 1회 보낸다.
+   - 링크 형식: `https://naeul-lee.github.io/ai-trends/YYYY/MM/DD/ai-trends.html` (글 날짜 기준, 예: 2026-11-07 글 → `https://naeul-lee.github.io/ai-trends/2026/11/07/ai-trends.html`)
+   - 알림 마지막 줄에 `🔗 <링크>` 형태로 단독 한 줄로 쓴다. (모바일에서 바로 탭할 수 있도록 링크 앞뒤에 다른 문자를 붙이지 않는다)
+   - 주간 정리 글(`-weekly`)을 발행한 날에는 주간 정리 링크(`.../YYYY/MM/DD/weekly.html`)도 한 줄 더 추가한다.
+   - 링크는 push 완료 후 보낸다. Pages 빌드에 1~2분 걸릴 수 있다는 점은 알림에 적지 않아도 된다.
 
 ## 6-1. 언어 규칙 (필수)
 
