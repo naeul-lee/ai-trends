@@ -4,10 +4,11 @@ title: 아카이브
 permalink: /archive/
 ---
 
-총 9개의 리포트
+총 10개의 리포트
 
 ## 2026-11
 
+- **11-13** [2026-11-13 AI 트렌드]({{ site.baseurl }}/2026/11/13/ai-trends.html) — Google이 Gemini 4 Hydrogen과 'Carbon이 계획하고 Hydrogen이 실행하는' Orchestrator를 내놨습니다. Anthropic 연구는 여러 사용자의 에이전트가 자원을 나눠 쓰면 '코디네이터 1개'보다 결과가 10~45%p 나빠진다고 보고했습니다.
 - **11-12** [2026-11-12 AI 트렌드]({{ site.baseurl }}/2026/11/12/ai-trends.html) — AWS는 '실제 AWS로 검증한 테스트'를 에이전트에게 주고 로컬 에뮬레이터를 3주 만에 만들었습니다. Google은 텍스트를 생성하지 않고 확률만 돌려주는 Gemini Decisions API를 내놨고, United Airlines는 AI 에이전트 대리 예약을 금지했습니다.
 - **11-11** [2026-11-11 AI 트렌드]({{ site.baseurl }}/2026/11/11/ai-trends.html) — Anthropic은 Fable 5.2에 '이 코드는 네 것'이라고 말하면 중복 코드 정리가 크게 늘었다고 밝혔고, Glasswing 7개월 점검에서는 AI 취약점 발견 3.8만 건 중 수정은 217건에 그쳤습니다. Gemini 4 Carbon은 정식 공개되며 11/30부터 가격이 두 배로 오릅니다.
 - **11-10** [2026-11-10 AI 트렌드]({{ site.baseurl }}/2026/11/10/ai-trends.html) — Anthropic이 Claude Fable 5.2를 내놓으며 '기본은 Opus 5.5, 어려운 일만 Fable' 식의 모델 계층 사용을 권했습니다. 에이전트가 쓴 PR 설명은 접어 두고 사람이 요약을 쓰라는 제안, '100% AI 코딩' 1년 뒤 코드 이해를 잃은 팀의 경험담도 나왔습니다.
