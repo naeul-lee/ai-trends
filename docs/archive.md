@@ -4,10 +4,11 @@ title: 아카이브
 permalink: /archive/
 ---
 
-총 10개의 리포트
+총 11개의 리포트
 
 ## 2026-11
 
+- **11-14** [2026-11-14 AI 트렌드]({{ site.baseurl }}/2026/11/14/ai-trends.html) — 코딩 에이전트는 정답 패치를 일찍 찾고도 한참 더 일하다가 1~8%는 그 정답을 망가뜨린다는 연구가 나왔습니다. Notion은 외부 AI 벤더(Fireworks) 사고로 AI 대화 기록이 노출됐다고 밝혔고, IBM은 지시와 데이터를 토큰 수준에서 분리하는 LLMON 모델을 공개했습니다.
 - **11-13** [2026-11-13 AI 트렌드]({{ site.baseurl }}/2026/11/13/ai-trends.html) — Google이 Gemini 4 Hydrogen과 'Carbon이 계획하고 Hydrogen이 실행하는' Orchestrator를 내놨습니다. Anthropic 연구는 여러 사용자의 에이전트가 자원을 나눠 쓰면 '코디네이터 1개'보다 결과가 10~45%p 나빠진다고 보고했습니다.
 - **11-12** [2026-11-12 AI 트렌드]({{ site.baseurl }}/2026/11/12/ai-trends.html) — AWS는 '실제 AWS로 검증한 테스트'를 에이전트에게 주고 로컬 에뮬레이터를 3주 만에 만들었습니다. Google은 텍스트를 생성하지 않고 확률만 돌려주는 Gemini Decisions API를 내놨고, United Airlines는 AI 에이전트 대리 예약을 금지했습니다.
 - **11-11** [2026-11-11 AI 트렌드]({{ site.baseurl }}/2026/11/11/ai-trends.html) — Anthropic은 Fable 5.2에 '이 코드는 네 것'이라고 말하면 중복 코드 정리가 크게 늘었다고 밝혔고, Glasswing 7개월 점검에서는 AI 취약점 발견 3.8만 건 중 수정은 217건에 그쳤습니다. Gemini 4 Carbon은 정식 공개되며 11/30부터 가격이 두 배로 오릅니다.
