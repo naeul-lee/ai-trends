@@ -4,10 +4,11 @@ title: 아카이브
 permalink: /archive/
 ---
 
-총 15개의 리포트
+총 16개의 리포트
 
 ## 2026-11
 
+- **11-18** [2026-11-18 AI 트렌드]({{ site.baseurl }}/2026/11/18/ai-trends.html) — Claude Code 팀이 '코드 90%를 Claude가 쓰는' 환경에서 쓰는 검증 체계를 공개했고, 2.7만 회 실행한 하네스 비교 eval은 '모델을 바꾸면 하네스도 다시 고르라'는 결론을 냈습니다. OpenAI는 GPT-6.2 Astra·Sol을, Microsoft는 MAI Code 2를 내놨습니다.
 - **11-17** [2026-11-17 AI 트렌드]({{ site.baseurl }}/2026/11/17/ai-trends.html) — Anthropic이 안전성 eval을 만드는 13가지 교훈을 공개했고, Uber는 '권한이 있나'를 넘어 '지금 이 행동이 맞나'를 묻는 에이전트 보안 체계를 소개했습니다. Windows 11이 어떤 코딩 에이전트를 쓰는지 집계한다는 분석과, AI가 쓴 Rust 코드를 증명으로 검증하는 Aristotle 확장도 나왔습니다.
 - **11-16** [2026-11-16 AI 트렌드]({{ site.baseurl }}/2026/11/16/ai-trends.html) — Cursor 사고의 원인은 벤더(Fireworks)에서 유출된 키였고, 그 키로 변조된 Claude Code 확장이 최대 5,000명에게 배포됐습니다. AI2의 XYBench는 모델이 '질문 속 착각'을 짚는 대신 질문 그대로 답하는 경향을 수치로 보여 줬습니다. OpenAI Evals·Agent Builder 종료는 2주 남았습니다.
 - **11-15** [2026-11-15 주간 Best Practice 모음 (11/9~11/15)]({{ site.baseurl }}/2026/11/15/weekly.html) — 이번 주 공통 주제는 '모델은 나눠 쓰고, 검증은 기계에, 상태는 git에'입니다. 계획·실행 모델 분리, 손대지 않은 테스트와 훅으로 검증, 메모리와 작업 큐를 커밋으로 관리하는 패턴이 반복해서 나왔습니다.
