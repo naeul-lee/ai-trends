@@ -4,10 +4,11 @@ title: 아카이브
 permalink: /archive/
 ---
 
-총 16개의 리포트
+총 17개의 리포트
 
 ## 2026-11
 
+- **11-19** [2026-11-19 AI 트렌드]({{ site.baseurl }}/2026/11/19/ai-trends.html) — Anthropic이 에이전트에게 2주간 staging을 일부러 망가뜨리고 고치게 한 '카오스 루프' 사례를 공개했고, KPMG는 감사 업무에 에이전트 100여 개를 투입한 실험 결과를 내놨습니다. Google은 Gemini 4 Neon을 출시했습니다.
 - **11-18** [2026-11-18 AI 트렌드]({{ site.baseurl }}/2026/11/18/ai-trends.html) — Claude Code 팀이 '코드 90%를 Claude가 쓰는' 환경에서 쓰는 검증 체계를 공개했고, 2.7만 회 실행한 하네스 비교 eval은 '모델을 바꾸면 하네스도 다시 고르라'는 결론을 냈습니다. OpenAI는 GPT-6.2 Astra·Sol을, Microsoft는 MAI Code 2를 내놨습니다.
 - **11-17** [2026-11-17 AI 트렌드]({{ site.baseurl }}/2026/11/17/ai-trends.html) — Anthropic이 안전성 eval을 만드는 13가지 교훈을 공개했고, Uber는 '권한이 있나'를 넘어 '지금 이 행동이 맞나'를 묻는 에이전트 보안 체계를 소개했습니다. Windows 11이 어떤 코딩 에이전트를 쓰는지 집계한다는 분석과, AI가 쓴 Rust 코드를 증명으로 검증하는 Aristotle 확장도 나왔습니다.
 - **11-16** [2026-11-16 AI 트렌드]({{ site.baseurl }}/2026/11/16/ai-trends.html) — Cursor 사고의 원인은 벤더(Fireworks)에서 유출된 키였고, 그 키로 변조된 Claude Code 확장이 최대 5,000명에게 배포됐습니다. AI2의 XYBench는 모델이 '질문 속 착각'을 짚는 대신 질문 그대로 답하는 경향을 수치로 보여 줬습니다. OpenAI Evals·Agent Builder 종료는 2주 남았습니다.
