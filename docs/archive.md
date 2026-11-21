@@ -4,10 +4,11 @@ title: 아카이브
 permalink: /archive/
 ---
 
-총 18개의 리포트
+총 19개의 리포트
 
 ## 2026-11
 
+- **11-21** [2026-11-21 AI 트렌드]({{ site.baseurl }}/2026/11/21/ai-trends.html) — Anthropic 소속 수학자가 Claude와 함께 일반화 리만 가설(GRH) 증명을 Lean 1,740만 줄로 공개했고(검증 전), AI 에이전트가 CPU와 FPGA 추론 칩을 설계한 사례가 잇따랐습니다. 세 사례 모두 '형식 명세·기준 오라클이 먼저'라는 교훈을 줍니다. Thinking Machines는 오픈 웨이트 Inkling 2 Mini를 냈습니다.
 - **11-20** [2026-11-20 AI 트렌드]({{ site.baseurl }}/2026/11/20/ai-trends.html) — Anthropic이 에이전트 여러 개를 6주간 돌려 블랙홀 물리학의 미해결 문제 두 개를 푼 과정을 공개했습니다. Replit·Cognition·Perplexity가 같은 주에 '에이전트 팀' 제품을 냈고, Anthropic은 Nasdaq(ANT)에 상장했습니다.
 - **11-19** [2026-11-19 AI 트렌드]({{ site.baseurl }}/2026/11/19/ai-trends.html) — Anthropic이 에이전트에게 2주간 staging을 일부러 망가뜨리고 고치게 한 '카오스 루프' 사례를 공개했고, KPMG는 감사 업무에 에이전트 100여 개를 투입한 실험 결과를 내놨습니다. Google은 Gemini 4 Neon을 출시했습니다.
 - **11-18** [2026-11-18 AI 트렌드]({{ site.baseurl }}/2026/11/18/ai-trends.html) — Claude Code 팀이 '코드 90%를 Claude가 쓰는' 환경에서 쓰는 검증 체계를 공개했고, 2.7만 회 실행한 하네스 비교 eval은 '모델을 바꾸면 하네스도 다시 고르라'는 결론을 냈습니다. OpenAI는 GPT-6.2 Astra·Sol을, Microsoft는 MAI Code 2를 내놨습니다.
