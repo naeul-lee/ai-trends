@@ -4,10 +4,12 @@ title: 아카이브
 permalink: /archive/
 ---
 
-총 19개의 리포트
+총 21개의 리포트
 
 ## 2026-11
 
+- **11-22** [2026-11-22 AI 트렌드]({{ site.baseurl }}/2026/11/22/ai-trends.html) — LangChain이 에이전트의 도구 호출을 한곳에서 통제하는 Tool Gateway를, Databricks가 승인 전에는 아무것도 바꾸지 않는 운영 에이전트 Genie ZeroOps를 공개 베타로 냈습니다. PostgreSQL 19는 AI가 찾아낸 버그를 처리하느라 두 달 늦게 나왔습니다.
+- **11-22** [2026-11-22 주간 Best Practice 모음 (11/16~11/22)]({{ site.baseurl }}/2026/11/22/weekly.html) — 이번 주 공통 주제는 '정답 기준을 먼저, 권한은 게이트웨이로, 결과는 기계가 검증'입니다. 형식 명세·오라클·불변 조건을 먼저 주고, 에이전트의 키와 도구 호출을 한곳에서 통제하며, eval과 하네스를 '성공 1건당 비용'으로 재는 패턴이 반복해서 나왔습니다.
 - **11-21** [2026-11-21 AI 트렌드]({{ site.baseurl }}/2026/11/21/ai-trends.html) — Anthropic 소속 수학자가 Claude와 함께 일반화 리만 가설(GRH) 증명을 Lean 1,740만 줄로 공개했고(검증 전), AI 에이전트가 CPU와 FPGA 추론 칩을 설계한 사례가 잇따랐습니다. 세 사례 모두 '형식 명세·기준 오라클이 먼저'라는 교훈을 줍니다. Thinking Machines는 오픈 웨이트 Inkling 2 Mini를 냈습니다.
 - **11-20** [2026-11-20 AI 트렌드]({{ site.baseurl }}/2026/11/20/ai-trends.html) — Anthropic이 에이전트 여러 개를 6주간 돌려 블랙홀 물리학의 미해결 문제 두 개를 푼 과정을 공개했습니다. Replit·Cognition·Perplexity가 같은 주에 '에이전트 팀' 제품을 냈고, Anthropic은 Nasdaq(ANT)에 상장했습니다.
 - **11-19** [2026-11-19 AI 트렌드]({{ site.baseurl }}/2026/11/19/ai-trends.html) — Anthropic이 에이전트에게 2주간 staging을 일부러 망가뜨리고 고치게 한 '카오스 루프' 사례를 공개했고, KPMG는 감사 업무에 에이전트 100여 개를 투입한 실험 결과를 내놨습니다. Google은 Gemini 4 Neon을 출시했습니다.
