@@ -6,6 +6,7 @@ permalink: /tags/
 
 ## 🎯 활용 Best Practice
 
+- 2026-11-24 [2026-11-24 AI 트렌드]({{ site.baseurl }}/2026/11/24/ai-trends.html)
 - 2026-11-23 [2026-11-23 AI 트렌드]({{ site.baseurl }}/2026/11/23/ai-trends.html)
 - 2026-11-22 [2026-11-22 AI 트렌드]({{ site.baseurl }}/2026/11/22/ai-trends.html)
 - 2026-11-22 [2026-11-22 주간 Best Practice 모음 (11/16~11/22)]({{ site.baseurl }}/2026/11/22/weekly.html)
@@ -31,6 +32,7 @@ permalink: /tags/
 
 ## 🤖 새로운 모델
 
+- 2026-11-24 [2026-11-24 AI 트렌드]({{ site.baseurl }}/2026/11/24/ai-trends.html)
 - 2026-11-23 [2026-11-23 AI 트렌드]({{ site.baseurl }}/2026/11/23/ai-trends.html)
 - 2026-11-22 [2026-11-22 AI 트렌드]({{ site.baseurl }}/2026/11/22/ai-trends.html)
 - 2026-11-21 [2026-11-21 AI 트렌드]({{ site.baseurl }}/2026/11/21/ai-trends.html)
@@ -51,6 +53,7 @@ permalink: /tags/
 
 ## ⚙️ LLM 서빙/인프라
 
+- 2026-11-24 [2026-11-24 AI 트렌드]({{ site.baseurl }}/2026/11/24/ai-trends.html)
 - 2026-11-23 [2026-11-23 AI 트렌드]({{ site.baseurl }}/2026/11/23/ai-trends.html)
 - 2026-11-21 [2026-11-21 AI 트렌드]({{ site.baseurl }}/2026/11/21/ai-trends.html)
 - 2026-11-19 [2026-11-19 AI 트렌드]({{ site.baseurl }}/2026/11/19/ai-trends.html)
@@ -82,6 +85,7 @@ permalink: /tags/
 
 ## 🏢 업계 동향
 
+- 2026-11-24 [2026-11-24 AI 트렌드]({{ site.baseurl }}/2026/11/24/ai-trends.html)
 - 2026-11-23 [2026-11-23 AI 트렌드]({{ site.baseurl }}/2026/11/23/ai-trends.html)
 - 2026-11-21 [2026-11-21 AI 트렌드]({{ site.baseurl }}/2026/11/21/ai-trends.html)
 - 2026-11-20 [2026-11-20 AI 트렌드]({{ site.baseurl }}/2026/11/20/ai-trends.html)
