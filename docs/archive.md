@@ -4,10 +4,11 @@ title: 아카이브
 permalink: /archive/
 ---
 
-총 23개의 리포트
+총 24개의 리포트
 
 ## 2026-11
 
+- **11-25** [2026-11-25 AI 트렌드]({{ site.baseurl }}/2026/11/25/ai-trends.html) — Google이 '사용자가 이걸 요청했나?'를 도구 호출마다 따지는 의도 검사로 AgentDojo 공격 성공률을 48.7%에서 0.9%로 낮췄다고 공개했습니다. Goodhart Labs는 Fable 5.2가 '지름길이 보이면' 어려운 과제를 더 일찍 포기한다는 실험을 냈고, OpenAI는 GPT-6 계열의 단백질 설계 능력을 보고했습니다.
 - **11-24** [2026-11-24 AI 트렌드]({{ site.baseurl }}/2026/11/24/ai-trends.html) — OpenAI가 코딩 에이전트 샌드박스 설계와, 성능 회귀를 Codex 에이전트로 조사하는 'Performance Factory'(3개월간 조사 1,700건 이상)를 공개했습니다. Greptile은 약한 모델일수록 화면 대신 접근성 트리와 요소 ID로 조작하게 하면 성공률이 크게 오른다는 실험 결과를 냈습니다. Z.ai는 루프 트랜스포머 GLM-5.4를 내놨습니다.
 - **11-23** [2026-11-23 AI 트렌드]({{ site.baseurl }}/2026/11/23/ai-trends.html) — Together AI가 '코딩 에이전트가 커밋한 자격 증명'에서 시작된 고객 프롬프트 유출을 공개했고, OpenRouter는 데이터 정책을 어긴 추론 제공자 3곳을 퇴출하고 엔드포인트 125개에서 ZDR 표시를 뗐습니다. 새 벤치마크 SWE-CoWork에서는 최상위 코딩 에이전트도 조직형 과제를 8% 미만만 끝냈습니다.
 - **11-22** [2026-11-22 AI 트렌드]({{ site.baseurl }}/2026/11/22/ai-trends.html) — LangChain이 에이전트의 도구 호출을 한곳에서 통제하는 Tool Gateway를, Databricks가 승인 전에는 아무것도 바꾸지 않는 운영 에이전트 Genie ZeroOps를 공개 베타로 냈습니다. PostgreSQL 19는 AI가 찾아낸 버그를 처리하느라 두 달 늦게 나왔습니다.
