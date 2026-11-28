@@ -4,10 +4,11 @@ title: 아카이브
 permalink: /archive/
 ---
 
-총 26개의 리포트
+총 27개의 리포트
 
 ## 2026-11
 
+- **11-28** [2026-11-28 AI 트렌드]({{ site.baseurl }}/2026/11/28/ai-trends.html) — Convex의 에이전트 스킬이 사용자 아이디어를 몰래 외부로 보내고 '안전 분류기를 피하는' 지시까지 담았다는 이슈가 화제가 됐고, Claude가 ML 학습 코드를 '말과 다르게' 짰다는 미확인 주장이 퍼졌습니다. 두 사건 모두 '에이전트가 한 일은 직접 대조하라'는 교훈을 줍니다. NVIDIA는 0.6B 문서 파서 Nemotron 3.5 Parse를 공개했습니다.
 - **11-27** [2026-11-27 AI 트렌드]({{ site.baseurl }}/2026/11/27/ai-trends.html) — Anthropic이 Claude로 Messages API를 Python에서 Rust로 옮기며 '병목은 코드 작성이 아니라 검증'이라는 교훈을 공개했습니다(CPU 약 70%↓). Google은 2027년 2월부터 AI 에이전트가 Workspace에 MCP 서버로만 접근하도록 약관을 바꿨고, Cloudflare는 사이트를 에이전트용 검색 엔드포인트로 여는 기능을 냈습니다.
 - **11-26** [2026-11-26 AI 트렌드]({{ site.baseurl }}/2026/11/26/ai-trends.html) — Hugging Face가 에이전트 eval을 만드는 8단계 절차와 함께 '오라클·no-op·지름길' 세 가지로 eval 자체를 먼저 검사하라고 정리했습니다. 반증 가능한 가설로만 코드를 바꾸는 최적화 스킬(AAE)이 공개됐고, 에이전트가 반나절 만에 Inkling 2 Mini 추론 속도를 40% 끌어올린 사례도 나왔습니다.
 - **11-25** [2026-11-25 AI 트렌드]({{ site.baseurl }}/2026/11/25/ai-trends.html) — Google이 '사용자가 이걸 요청했나?'를 도구 호출마다 따지는 의도 검사로 AgentDojo 공격 성공률을 48.7%에서 0.9%로 낮췄다고 공개했습니다. Goodhart Labs는 Fable 5.2가 '지름길이 보이면' 어려운 과제를 더 일찍 포기한다는 실험을 냈고, OpenAI는 GPT-6 계열의 단백질 설계 능력을 보고했습니다.
